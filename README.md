@@ -1,15 +1,9 @@
 <div align="center">
-
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Diego&fontSize=70&fontColor=c9d1d9&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering&descAlignY=58&descSize=20&descColor=8b949e" width="100%" />
-
 </div>
 
----
-
 <div align="center">
-
-```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
 │   Estudiante de Ingeniería en Datos · TecNM Campus Tláhuac · CDMX      │
@@ -24,10 +18,15 @@
 
 ## `> whoami`
 
-Soy estudiante de Ciencia de Datos con enfoque en **machine learning aplicado** y proyectos orientados a **fintech e impacto real**. Me interesa el lado técnico profundo: modelado estadístico, pipelines robustos y análisis que van más allá de la superficie.
+Soy estudiante de Ciencia de Datos en TecNM Campus Tláhuac, Ciudad de México, con enfoque en machine learning aplicado y proyectos orientados a fintech e impacto real.
+
+Lo que me mueve es entender el por qué detrás de los modelos — no solo aplicarlos mecánicamente. Me apasiona el momento en que un modelo empieza a revelar patrones que no eran obvios a simple vista, y eso me mantiene estudiando más allá del aula.
+
+Aprendo mejor cuando tengo las manos en el código: construyendo pipelines desde cero, debuggeando errores reales y leyendo documentación hasta que algo hace clic. Fuera de los datos, entreno Brazilian Jiu-Jitsu — un deporte que me enseñó que la consistencia y la paciencia son la única forma de mejorar en algo difícil. Esa misma mentalidad la traigo al aprendizaje técnico.
+
+Actualmente consolidando fundamentos sólidos en clasificación, pruebas estadísticas e interpretabilidad de modelos, con la mira puesta en fintech y Big Tech.
 
 
- 
 ---
 
 ## `> stack --current`
