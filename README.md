@@ -1,6 +1,6 @@
-<div align="center">
+Copiar<div align="center">
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Diego&fontSize=70&fontColor=c9d1d9&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering&descAlignY=58&descSize=20&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Científico%20de%20Datos&fontSize=50&fontColor=c9d1d9&fontAlignY=45&desc=&descAlignY=58&descSize=20&descColor=8b949e" width="100%" />
 </div>
 
 <div align="center">
